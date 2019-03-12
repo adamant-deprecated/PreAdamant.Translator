@@ -1,10 +1,10 @@
 # *Deprecated* Pre-Adamant Translator
 
-This was an attempt to create a compiler for the Pre-Adamant language as the first step of bootstrapping an Adamant compiler.  This translator tried to create a C# framework similar to the [Nanopass Framework](http://nanopass.org/) for Scheme at https://github.com/nanopass.  It was planned to translate to [Swift](https://swift.org) or C++.
+This was an attempt to create a compiler for the Pre-Adamant language as the first step of bootstrapping an Adamant compiler.  This translator tried to create a C# framework similar to the [Nanopass Framework](http://nanopass.org/) for Scheme at https://github.com/nanopass. It was planned to translate to [Swift](https://swift.org) or C++.
 
 ## Project Status: Alpha *Deprecated*
 
-This project should not be used. The current Adamant compiler is the "[adamant.tools.compiler.bootstrap](https://github.com/adamant/adamant.tools.compiler.bootstrap)" project.
+This project should not be used.
 
 ### Download and Use
 
